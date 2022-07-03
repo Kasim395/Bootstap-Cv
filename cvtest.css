@@ -1,0 +1,100 @@
+
+li{
+    display : inline;
+    
+margin-left: 17%;
+
+
+}
+#navbarNav{
+
+    
+}
+
+#blu{
+
+    color: rgb(0, 145, 255);
+}
+
+#name{
+
+    margin-left: 3%;
+    font-size: 25px;
+}
+
+
+
+.navigation_bar{
+
+  background-color: silver;
+  margin-bottom: -20px;
+  height: 50px;
+}
+
+
+
+.abc{
+   
+    
+    padding-left: 10%;
+    background-color: rgba(128, 128, 128, 0.463)
+    
+}
+
+.abd{
+   
+    width: 30%;
+    padding-left: 10%;
+    background-color: black;
+}
+
+
+
+ 
+
+
+
+
+
+.t65{
+
+    background-color: goldenrod;
+}
+
+.mpic{
+  
+float: inline;
+
+
+margin-top: -10px;
+margin-left: 1%;
+width: 100%;
+
+
+}
+
+
+
+
+.g12{
+
+    float: left;
+    margin-left: 2%;
+    margin-top: 10%;
+    
+    
+}
+
+.p99{
+
+    float: left;
+}
+
+
+.m1{
+
+    color: black;
+    font-style: oblique;
+    width: 100%;
+    margin-bottom: 2%;
+}
